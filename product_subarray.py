@@ -19,6 +19,6 @@ def maxproduct(list_):
     return total_ma
         
 
-ar = [-2, 3, 4, -1, -2, 1, 5] 
+# ar = [-2, 3, 4, -1, -2, 1, 5] 
 # ar = [-2, -3, 0, 4, -1, -2, 1,0,  5, -3] 
 # print(maxproduct(ar))
